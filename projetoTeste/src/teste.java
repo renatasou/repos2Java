@@ -1,6 +1,6 @@
 
 public class teste {
 	
-	public int numteste = 0;
+	public int num = 0;
 
 }

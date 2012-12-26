@@ -1,6 +1,7 @@
 
 public class teste {
 	
-	public int num = 0;
+	public int numteste = 0;
+	public String nometeste = "";
 
 }

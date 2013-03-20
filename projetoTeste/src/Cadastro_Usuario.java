@@ -9,6 +9,7 @@ public class Cadastro_Usuario {
 	public void pagamento (int valor){
 		
 		System.out.println("modificação para testar s foi para master");
+		System.out.println("mais uma alteração");
 		
 	}
 

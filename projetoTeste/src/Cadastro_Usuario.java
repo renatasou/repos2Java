@@ -1,4 +1,3 @@
-
 public class Cadastro_Usuario {
 	
 	public int num = 0;
@@ -8,8 +7,8 @@ public class Cadastro_Usuario {
 	
 	public void pagamento (int valor){
 		
-		System.out.println("modificação para testar s foi para master");
-		System.out.println("mais uma alteração");
+		System.out.println("modificaï¿½ï¿½o para testar s foi para master");
+		System.out.println("alteraÃ§Ã£o pelo github");
 		
 	}
 

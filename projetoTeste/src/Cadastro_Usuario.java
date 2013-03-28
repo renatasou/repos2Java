@@ -13,7 +13,7 @@ public class Cadastro_Usuario {
 			
 	}
 	
-	Public void transfere (int valor){
+	public void transfere (int valor){
 		
 	}
 	

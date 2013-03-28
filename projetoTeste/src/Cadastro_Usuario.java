@@ -13,5 +13,9 @@ public class Cadastro_Usuario {
 			
 	}
 	
+	Public void transfere (int valor){
+		
+	}
+	
 
 }

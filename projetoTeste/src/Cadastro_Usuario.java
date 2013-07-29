@@ -1,7 +1,7 @@
 public class Cadastro_Usuario {
 	
 	public int num = 0;
-	public String nome = "um nome qualquer";
+	public String nome = "um nome qualquer, eu alterei isso aqui";
 	
 	public int matAluno = 123456;
 	
@@ -13,7 +13,7 @@ public class Cadastro_Usuario {
 			
 	}
 	
-	Public void transfere (int valor){
+	public void transfere (int valor){
 		
 	}
 	
